@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: projeto-4
-          image: vitorialeda/projeto-4:v2.0
+          image: vitorialeda/projeto-4:v1.0
           ports:
             - containerPort: 80
